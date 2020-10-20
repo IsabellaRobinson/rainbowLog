@@ -1,0 +1,25 @@
+{
+  "name": "rainbow",
+  "version": "1.0.0",
+  "description": "Creates a colorful console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabellaRobinson/rainbowLog.git"
+  },
+  "keywords": [
+    "console",
+    "rainbow",
+    "colors",
+    "colours"
+  ],
+  "author": "Isabella Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsabellaRobinson/rainbowLog/issues"
+  },
+  "homepage": "https://github.com/IsabellaRobinson/rainbowLog#readme"
+}
